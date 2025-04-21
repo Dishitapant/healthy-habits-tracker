@@ -10,6 +10,20 @@ Welcome to the **Healthy Habits Tracker** – a Python-based CLI tool designed t
 
 ---
 
+👨‍💻 Team Members
+Dishita Pant
+Garvit Pant
+Divya
+Aditya Rawat
+
+---
+
+🎓 Mentors
+Ms. Ankita
+Dr. Rajesh Upadhyay (Head of Department)
+
+---
+
 🌟 Key Features
 
 - 💧 Track **daily water intake**
